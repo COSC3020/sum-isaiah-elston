@@ -6,6 +6,8 @@ function sum(a) {
     return sum;
 }
 
-let testArray = [5, 10, 15]
+let testArray1 = [5, 10, 15]
+let testArray2 = [1, 2]
 
-console.log(sum(testArray))
+console.log(sum(testArray1))
+console.log(sum(testArray2))

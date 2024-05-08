@@ -4,4 +4,4 @@ function sum(a) {
         sum += a[i];
     }
     return sum;
-}
+} 

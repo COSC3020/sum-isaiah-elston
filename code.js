@@ -5,7 +5,3 @@ function sum(a) {
     }
     return sum;
 }
-
-let testArray = [5, 10, 15]
-
-console.log(sum(testArray))
